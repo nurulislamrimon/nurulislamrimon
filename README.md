@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN stack developer from Noakhali, Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislamrimon" /> </p>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO/view?usp=sharing"/>
+<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO/view?usp=sharing](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRWTlX0MxJoHAlWF6DRbF_g3EP8yxJXXlxpyxINruJnrlkLI2w5bqo-84P83S8QAt8buNZMMKvgOvyFSKqe6Q8S1PDJoQ=w958-h909)"/>
 
 - 🔭 I’m currently working on **QPrint**
 
