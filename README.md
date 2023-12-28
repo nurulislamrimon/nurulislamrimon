@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nurul Islam Rimon</h1>
 <h3 align="center">A passionate MERN stack developer from Noakhali, Bangladesh.</h3>
 
