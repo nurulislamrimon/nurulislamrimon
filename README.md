@@ -1,30 +1,145 @@
-<h1 align="center">Hi 👋, I'm Nurul Islam Rimon</h1>
-<h3 align="center">A passionate MERN stack developer from Noakhali, Bangladesh.</h3>
+<!-- PROFILE HEADER -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislamrimon" /> </p>
-<img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO"/>
+<p align="center">
 
-- 🔭 I’m currently working on **QPrint**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=3B82F6&center=true&vCenter=true&width=750&lines=Nurul+Islam+Rimon;Full+Stack+Software+Engineer;Founder+of+Expert+Squad;Building+Scalable+Web+Platforms;Backend+Architecture+Enthusiast" />
 
-- 🌱 I’m currently learning **Prisma, PostgreSQL**
-
-- 👯 I’m looking to collaborate on **COP**
-
-- 💬 Ask me about **React,Nextjs & MongoDB (Aggregation)**
-
-- 📫 How to reach me **nurulislamrimon@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nurulislamrimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurulislamrimon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nurulislamrimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurulislamrimon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nurulislamrimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nurulislamrimon" height="30" width="40" /></a>
-<a href="https://discord.gg/nurulislamrimon#1127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nurulislamrimon#1127" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">
+Software Engineer • MERN Stack Specialist • System Builder
+</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulislamrimon&show_icons=true&locale=en&layout=compact" alt="nurulislamrimon" /></p>
+<p align="center">
+<a href="https://expertsquad.net"><b>Expert Squad</b></a> •
+<a href="https://bdcommerce.app"><b>BDCommerce</b></a> •
+<a href="mailto:nurulislamrimon@gmail.com"><b>Email</b></a> •
+<a href="https://linkedin.com/in/nurulislamrimon"><b>LinkedIn</b></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislamrimon&" alt="nurulislamrimon" /></p>
+---
+
+<img align="right" width="420" src="http://drive.google.com/uc?export=view&id=1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO"/>
+
+# 👨‍💻 About Me
+
+I’m a **full-stack software engineer** focused on building **scalable web platforms and developer-friendly systems**.
+
+My work focuses on:
+
+• Backend architecture
+• Production-grade APIs
+• Scalable SaaS and eCommerce platforms
+
+Through **Expert Squad**, I develop software products and tools that solve real-world business problems.
+
+---
+
+# 🚀 Current Project
+
+### **BDCommerce**
+
+A **modern full-stack eCommerce ecosystem** designed for scalability.
+
+Platform components include:
+
+• Admin dashboard
+• Backend API architecture
+• Client storefront
+• Real-time notifications
+• Scalable data infrastructure
+
+---
+
+# ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,html,css,js"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,cloudflare,firebase,postman"/>
+</p>
+
+---
+
+# 📦 Open Source
+
+Some developer tools and packages I build:
+
+• Node.js backend utilities
+• Developer productivity tools
+• API architecture helpers
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nurulislamrimon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulislamrimon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislamrimon&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nurulislamrimon/nurulislamrimon/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p>
+
+<a href="https://linkedin.com/in/nurulislamrimon">
+<img height="32" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/nurulislamrimon">
+<img height="32" src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://stackoverflow.com/users/nurulislamrimon">
+<img height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 Engineering Philosophy
+
+> Great software is not defined by how many technologies you use.
+> It is defined by **clarity, scalability, and developer experience.**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20Views&color=3B82F6&style=flat"/>
+
+</p>
