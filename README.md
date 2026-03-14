@@ -99,10 +99,10 @@ Some packages and developer tools I maintain:
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nurulislamrimon&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nurulislamrimon&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
