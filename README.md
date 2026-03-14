@@ -1,20 +1,21 @@
-<!-- PROFILE HEADER -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=3B82F6&center=true&vCenter=true&width=750&lines=Nurul+Islam+Rimon;Full+Stack+Software+Engineer;Founder+of+Expert+Squad;Building+Scalable+Web+Platforms;Backend+Architecture+Enthusiast" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=3B82F6&center=true&vCenter=true&width=750&lines=Nurul+Islam+Rimon;Full+Stack+Software+Engineer;Founder+of+Expert+Squad;Backend+Architecture+Enthusiast;Building+Scalable+Web+Platforms"/>
 </p>
 
 <h3 align="center">
-Software Engineer • MERN Stack Specialist • System Builder
+Software Engineer • MERN Stack Specialist • Product Builder
 </h3>
 
 <p align="center">
+Building scalable products • Backend architecture • Developer tooling
+</p>
+
+<p align="center">
+<a href="https://nirimon.site"><b>Portfolio</b></a> •
 <a href="https://expertsquad.net"><b>Expert Squad</b></a> •
-<a href="https://bdcommerce.app"><b>BDCommerce</b></a> •
-<a href="mailto:nurulislamrimon@gmail.com"><b>Email</b></a> •
-<a href="https://linkedin.com/in/nurulislamrimon"><b>LinkedIn</b></a>
+<a href="https://bdcommerce.app"><b>BDCommerce</b></a>
 </p>
 
 ---
@@ -25,19 +26,20 @@ Software Engineer • MERN Stack Specialist • System Builder
 
 I’m a **full-stack software engineer** focused on building **scalable web platforms and developer-friendly systems**.
 
-My work focuses on:
+My work mainly focuses on:
 
 • Backend architecture
-• Production-grade APIs
-• Scalable SaaS and eCommerce platforms
+• Scalable API design
+• SaaS & eCommerce platforms
+• Developer tooling
 
-Through **Expert Squad**, I develop software products and tools that solve real-world business problems.
+Through **Expert Squad**, I build production software and modern digital products.
 
 ---
 
-# 🚀 Current Project
+# 🚀 Featured Projects
 
-### **BDCommerce**
+### 🛒 BDCommerce
 
 A **modern full-stack eCommerce ecosystem** designed for scalability.
 
@@ -46,8 +48,18 @@ Platform components include:
 • Admin dashboard
 • Backend API architecture
 • Client storefront
-• Real-time notifications
+• Real-time notification system
 • Scalable data infrastructure
+
+🔗 https://bdcommerce.app
+
+---
+
+### 🏢 Expert Squad
+
+A software company focused on building **scalable web products and modern applications**.
+
+🔗 https://expertsquad.net
 
 ---
 
@@ -73,13 +85,25 @@ Platform components include:
 
 ---
 
-# 📦 Open Source
+# 📦 Open Source & NPM
 
-Some developer tools and packages I build:
+I enjoy building tools for developers and backend ecosystems.
 
-• Node.js backend utilities
-• Developer productivity tools
-• API architecture helpers
+Some packages and developer tools I maintain:
+
+• mailzio
+• nestjs-exception-handler
+• backend utilities and helpers
+
+🔗 https://www.npmjs.com/~nurulislamrimon
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nurulislamrimon&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
@@ -94,9 +118,15 @@ Some developer tools and packages I build:
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurulislamrimon&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurulislamrimon&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -104,42 +134,50 @@ Some developer tools and packages I build:
 # 🐍 Contributions
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/nurulislamrimon/nurulislamrimon/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/nurulislamrimon/nurulislamrimon/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🌐 Connect
+# ⚙️ Engineering Principles
+
+• Build simple before scaling
+• Design clean backend architecture
+• Optimize developer experience
+• Focus on maintainable systems
+
+---
+
+# 🌐 Connect With Me
 
 <p>
 
-<a href="https://linkedin.com/in/nurulislamrimon">
-<img height="32" src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://nirimon.site">
+<img height="32" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/nurulislamrimon">
-<img height="32" src="https://skillicons.dev/icons?i=twitter"/>
+<a href="mailto:nurulislamrimon@gmail.com">
+<img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://stackoverflow.com/users/nurulislamrimon">
-<img height="32" src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg"/>
+<a href="https://wa.me/8801715494846">
+<img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://linkedin.com/in/nirimon123">
+<img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://facebook.com/nirimon123">
+<img height="32" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-# 🧠 Engineering Philosophy
+<a href="https://medium.com/@nurulislamrimon">
+<img height="32" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-> Great software is not defined by how many technologies you use.
-> It is defined by **clarity, scalability, and developer experience.**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20Views&color=3B82F6&style=flat"/>
+<a href="https://www.npmjs.com/~nurulislamrimon">
+<img height="32" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</a>
 
 </p>
